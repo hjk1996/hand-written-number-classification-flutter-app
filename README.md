@@ -1,4 +1,4 @@
-# Documentation
+## Documentation
 
 캔버스에 적은 숫자를 예측해주는 플러터 앱입니다.
 
@@ -15,4 +15,11 @@ The prediction begin when you release your finger on the canvas.
 The prediction results are returned as a probability for each number.
 
 
+## Screenshot
 
+
+![Screenshot_1664192249](https://user-images.githubusercontent.com/82424229/192266987-72f282f5-8656-4756-9251-956c49e593f2.png)
+
+
+
+![Animation](https://user-images.githubusercontent.com/82424229/192268066-82e7a213-a84f-43a6-a5ca-fd74c2785b58.gif)
