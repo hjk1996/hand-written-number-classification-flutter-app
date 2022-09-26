@@ -1,16 +1,18 @@
-# temp
+# Documentation
 
-A new Flutter project.
+캔버스에 적은 숫자를 예측해주는 플러터 앱입니다.
 
-## Getting Started
+MNIST DIGITS 데이터셋을 학습한 tensorflow 모델을 예측에 사용합니다.
 
-This project is a starting point for a Flutter application.
+캔버스에 손을 떼는 순간 숫자 예측이 진행되며 예측 결과는 각 숫자에 대한 확률로 출력됩니다.
 
-A few resources to get you started if this is your first Flutter project:
+It's an app that predicts the number on the canvas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The model used in the app was trained by MNIST DIGITS dataset.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The prediction begin when you release your finger on the canvas. 
+
+The prediction results are returned as a probability for each number.
+
+
+
